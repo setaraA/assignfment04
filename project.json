@@ -1,0 +1,49 @@
+[
+    {
+        "id": "2001",
+        "text-Dari" : ".کار از محکم کاری عیب نمی کند",
+        "text-pshto": ".له احتیاط کار نه خرابیژی",
+        "translation-in-English": "Caution doesn't spoil the work.",
+        "description": "It is always wise to double check or take precautions; being careful never causes harm.",
+        "catagory": "Advice"
+
+    },
+
+    {
+        "id": "2002",
+        "text-Dari": ".دهن بین مباش",
+        "text-pshto": ".د هر چا مه منه",
+        "translation-in-English": "Don't just go by what people say.",
+        "description": "Be independent in thought and don't blindly follow others.",
+        "catagory": "Advice"
+
+    },
+    {
+        "id": "2003",
+        "text-Dari": ".دوستان شفیق بهتر از خویشان منافق اند",
+        "text-pshto": " ",
+        "translation-in-English": ".صادق ملگرو تر منافق خپلوانو شه دی",
+        "description": "Loyal friends are better than hypocritical relatives.",
+        "catagory": "Wisdom"
+
+    },
+    {
+        "id": "2004",
+        "text-Dari":".دو نفر یک دروغ را گفتند صد نفر باور کردند",
+        "text-pshto": ".دوه کسانو دروغ وویل سل کسانو باور وکر",
+        "translation-in-English": "Two people told a lie, a hundred  believed it. ",
+        "description": "Lies can quickly spread and be accepted as truth.",
+        "catagory": "Wisdom"
+    },
+    {
+        "id": "2005",
+        "text-Dari": ".دشمن دانا به از دوست نادان",
+        "text-pshto": ".هوشیار دشمن تر تاپوهه ملگری غوره دی",
+        "translation-in-English": "A wise enemyy is better than a foolish friend.",
+        "description": "A clever enemy may be predictable or manageable, while a foolish friend can unknownly harm you.",
+        "catagory": "Wisdom"
+
+    }
+   
+
+]
